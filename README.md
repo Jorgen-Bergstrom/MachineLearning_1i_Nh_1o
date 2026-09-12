@@ -5,4 +5,4 @@ This project contains a simple C++ implementation of a Feed Forward Neural Netwo
 
 The code runs significantly faster than the basic Keras Python implementation.
 
-The code is explained on this web page: https://megamachinelearn.org/backpropagation-part-3-1-hidden-layer-n-perceptrons/
+The code is explained on this [web page](https://jorgen-bergstrom.github.io/posts/backpropagation_part_1/).
