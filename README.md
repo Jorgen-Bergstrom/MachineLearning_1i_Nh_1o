@@ -5,4 +5,4 @@ This project contains a simple C++ implementation of a Feed Forward Neural Netwo
 
 The code runs significantly faster than the basic Keras Python implementation.
 
-The code is explained on this [web page](https://jorgen-bergstrom.github.io/posts/backpropagation_part_1/).
+The code is explained on this [web page](http://localhost:1313/posts/backpropagation_part_3/).
